@@ -1,4 +1,4 @@
-// const
+    // const
 // in const value will not change 
  const a=10;
  console.log(a);
